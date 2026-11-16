@@ -23,7 +23,7 @@ const {
     prepareWAMessageMedia,
     generateWAMessageFromContent,
     S_WHATSAPP_NET
-} = require('@whiskeysockets/baileys');
+} = require('@dnuzi/baileys');
 
 const FIREBASE_URL = 'https://sanazeno-default-rtdb.asia-southeast1.firebasedatabase.app/';
 
